@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KriptoNews</string>
+    <string name="about_name">Mohamad Akmal Ramadhanta</string>
+    <string name="about_email">midlordgusti@gmail.com</string>
+    <string name="title_news">Judul Berita</string>
+    <string name="author">Author :</string>
+    <string name="author_name">Author Name</string>
+    <string name="date_released">date_released</string>
+    <string name="news_text">TextView</string>
+    <string name="btn_about_page">about</string>
+</resources>
